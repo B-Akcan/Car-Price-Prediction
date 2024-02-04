@@ -1,2 +1,3 @@
 # Car Price Prediction
 Car price prediction with linear regression neural network model.\
+I have used the data at this link: https://www.kaggle.com/datasets/rifkaregmi/branded-cars-dataset?resource=download
